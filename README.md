@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leezanm
-- 👀 I’m interested in programming currently doing php, angular, javascript, Nodejs
+- 👀 I’m interested in programming currently doing php, angular, javascript, Nodejs, Laravel
 - 🌱 I’m currently learning how to develop mobile apps with ionic
 - 📫 How to reach zalie_lieza@yahoo.com
 
